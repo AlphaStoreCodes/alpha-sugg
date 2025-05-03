@@ -1,0 +1,13 @@
+{
+    "_comment1": "IMPORTANT: Replace the values below with your own Discord server IDs",
+    "_comment2": "Enable Developer Mode in Discord (User Settings > App Settings > Advanced > Developer Mode)",
+    "_comment3": "Right-click on a channel and select 'Copy ID' to get the channel ID",
+    "_comment4": "Right-click on a role in the server settings and select 'Copy ID' to get the role ID",
+    "_comment5": "suggestionChannelId: The channel where users will send their suggestions",
+    "_comment6": "approverRoleId: The role that can approve/reject suggestions",
+    "_comment7": "logChannelId: The channel where suggestion actions will be logged",
+    
+    "suggestionChannelId": "REPLACE_WITH_YOUR_SUGGESTION_CHANNEL_ID",  
+    "approverRoleId": "REPLACE_WITH_YOUR_APPROVER_ROLE_ID",
+    "logChannelId": "REPLACE_WITH_YOUR_LOG_CHANNEL_ID"
+}
