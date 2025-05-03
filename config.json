@@ -1,6 +1,0 @@
-{
-    "suggestionChannelId": "YOUR_SUGGESTION_CHANNEL_ID",  
-    "TOKEN": "YOUR_BOT_TOKEN",
-    "approverRoleId": "YOUR_ADMIN_ROLE_ID",
-    "logChannelId": "YOUR_LOG_CHANNEL_ID"
-}
